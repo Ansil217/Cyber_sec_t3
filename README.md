@@ -24,4 +24,6 @@ SMB Signing Not Required
 Description: SMB protocol doesn’t require signing
 Fix: Enforce SMB signing via Windows Group Policy
 
+NOTE:- There are two folder for my pc scanning reports one is .pdf file .That's the only file opens.
+
 
